@@ -39,6 +39,9 @@ From there, your job is to:
 > only hook you need to use for this assignment? What other hook have we learned
 > about that might be helpful here?
 
+Once you've completed the deliverables, don't forget to run `npm test` to ensure
+you've completed all of them successfully!
+
 ## Resources
 
 - [React `fetch` with `useEffect` Example][react ajax]
